@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for reference anf practice
+Schell Scripts for reference and practice
